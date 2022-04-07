@@ -1,2 +1,2 @@
-# juego-de-zombies
-preguntas juego de zombies
+# Vane-juego-Zombie
+Juego en VisualStudioCode
