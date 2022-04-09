@@ -3,7 +3,7 @@ var score=0;
 
 function preload() {
   bg = loadImage("fondo_preguntas.jpg");
-  bg2 = loadImage("treasure.jpg")
+  bg2 = loadImage("fondo_4.jpg")
 }
 
 function setup() {
@@ -25,7 +25,7 @@ function draw() {
     background(bg2)
     fill("black")
     textSize(40);
-    text("TESORO DESBLOQUEADO",250, 200);
+    text("SIGUIENTE NIVEL (っ◕‿◕)っ☺→ 1\n\ INSTRUCCIONES 1\n\ Has sido el elegido para seguir aqui 1\n\  ",100, 100);
   }
 
   drawSprites()
