@@ -20,7 +20,7 @@ function clues() {
     textSize(15)
     text("PREGUNTA 3", 100,250)
     fill("lightblue")
-    text( "Pista: Estas en una habitación algo oscuray muy fría solo tienes unfósforo,1\n\
+    text( "Pista: Estas en una habitación algo oscuray muy fría solo tienes unfósforo,\n\
     al frente tienes una vela, una lampara de aceite y una antorch, todas apagadas. ¿Qué prendes primero?", 100,270)
   
 }

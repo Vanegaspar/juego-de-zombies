@@ -25,7 +25,8 @@ function draw() {
     background(bg2)
     fill("black")
     textSize(40);
-    text("SIGUIENTE NIVEL (っ◕‿◕)っ☺→ 1\n\ INSTRUCCIONES 1\n\ Has sido el elegido para seguir aqui 1\n\  ",100, 100);
+    text("SIGUIENTE NIVEL (っ◕‿◕)っ☺→ \n\ INSTRUCCIONES \n\ Has sido el elegido para seguir aqui \n\  ",100, 100);
+    text("PRESIONAR ENTER", 550,550)
   }
 
   drawSprites()
